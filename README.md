@@ -30,7 +30,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>&nbsp  
 </p>
 
+
 <h3 align="center">✉️Contact✉️</h3>
 <p align="center">
   <a href="mailto:ahyoung12@gachon.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+
+
+<h3 align="center">👩‍💻 Github Stats 👩‍💻</h3>
+<div align="center">  
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah-o-ng12&theme=aura_dark&show_icons=true)
+</div>
