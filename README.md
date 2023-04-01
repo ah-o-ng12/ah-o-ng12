@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="center">👩‍💻 Github Stats 👩‍💻</h3>
+<div align="center">  
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah-o-ng12&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<h3 align="center">•••</h3>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -36,12 +45,3 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="mailto:ahyoung12@gachon.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-
-<h3 align="center">•••</h3>
-
-<h3 align="center">👩‍💻 Github Stats 👩‍💻</h3>
-<div align="center">  
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah-o-ng12&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
