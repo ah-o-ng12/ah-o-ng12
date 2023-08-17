@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <h3 align="center">👩‍💻 Github Stats 👩‍💻</h3>
 <div align="center">  
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah-o-ng12&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+-->
 
 <h3 align="center">•••</h3>
 
