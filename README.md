@@ -17,27 +17,27 @@ Here are some ideas to get you started:
 
 <!--
 <h3 align="center">👩‍💻 Github Stats 👩‍💻</h3>
-<div align="center">  
+<div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah-o-ng12&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah-o-ng12&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 -->
+
+
 
 <div align="center">
 
 <!--
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f7f7f7,100:ebe5ff&height=180)
--->
-
 
 <h3 align="center">•••</h3>
+-->
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
+
 <p align="center">
 
-  
-  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
   <br>
@@ -57,16 +57,13 @@ Here are some ideas to get you started:
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/> 
-  
 
-  <br>
-  
-   
 </p>
 
 <h3 align="center">•••</h3>
 
 <h3 align="center">✉️Contact✉️</h3>
+
 <p align="center">
   <a href="mailto:ahyoung12@gachon.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
