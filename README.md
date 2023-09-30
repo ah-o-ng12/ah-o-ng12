@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+<!--
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f7f7f7,100:ebe5ff&height=180)
-
+-->
 
 
 <h3 align="center">•••</h3>
