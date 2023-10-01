@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f7f7f7,100:ebe5ff&height=180)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f7f7f7,100:ebe5ff&height=100)
 
 <!--
 <h3 align="center">•••</h3>
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
   <a href="mailto:ahyoung12@gachon.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:f7f7f7,100:ebe5ff&height=180&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:f7f7f7,100:ebe5ff&height=100&section=footer)
 
 </div>
 
