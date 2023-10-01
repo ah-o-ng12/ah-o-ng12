@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<!--
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f7f7f7,100:ebe5ff&height=180)
 
+<!--
 <h3 align="center">•••</h3>
 -->
 
@@ -55,8 +55,22 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
   <br>
+  <br>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"&options="white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Virtualbox-183A61?style=flat&logo=virtualbox&logoColor="white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+  
 
 </p>
 
@@ -67,6 +81,8 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="mailto:ahyoung12@gachon.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:f7f7f7,100:ebe5ff&height=180&section=footer)
 
 </div>
 
